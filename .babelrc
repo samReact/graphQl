@@ -1,0 +1,10 @@
+{
+  "presets": ["env"],
+  "plugins": ["babel-plugin-transform-object-rest-spread"],
+  "env": {
+    "debug": {
+      "sourceMaps": "inline",
+      "retainLines": true
+    }
+  }
+}
